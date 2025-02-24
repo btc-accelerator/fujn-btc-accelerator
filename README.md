@@ -9,7 +9,7 @@ If your Bitcoin transaction is stuck due to low fees or network congestion, **Fu
 ✅ **Free & easy-to-use** Bitcoin transaction accelerator  
 ✅ **No registration required** – just submit your TXID  
 
-### 🔗 Try it now: [Fujn Bitcoin Accelerator](https://fujn.com)
+### 🔗 Try it now: [Bitcoin Transaction Accelerator](https://fujn.com)
 
 ---
 ## 📌 How It Works:
